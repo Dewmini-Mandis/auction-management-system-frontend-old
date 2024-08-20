@@ -4,11 +4,11 @@ Thank you for considering contributing to the project of Auction Management Syst
 
 ## **1. Repository Setup Guide**
 
-This guide offers detailed instructions for setting up a repository, installing dependencies, configuring a server, and starting the server for a Java application.
+This guide offers detailed instructions for setting up a repository, installing dependencies, configuring a server, and starting the server for this ReactJS application.
 
 ### **1.1 Clone the Repository**
 
-To clone a repository using GitHub Desktop, follow these steps:
+To clone the repository using GitHub Desktop, follow these steps:
 
 * Download and Install GitHub Desktop: [https://desktop.github.com/](https://desktop.github.com/)
 * Open GitHub Desktop
