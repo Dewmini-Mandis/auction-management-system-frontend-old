@@ -1,0 +1,14 @@
+.topbar-link {
+    color: #8A3CCD;
+    font-size: 12px;
+    text-decoration-line: underline;
+}
+
+.or{
+    color: #480C7B;
+}
+
+.topbar-link:hover {
+    opacity: 0.8;
+    color: #8A3CCD;
+}
